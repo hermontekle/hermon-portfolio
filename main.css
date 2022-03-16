@@ -1,0 +1,9 @@
+#hero {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  color: rgb(200, 200, 200);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
